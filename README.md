@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I’m Sree V G 👋  
 
-<!--
-**sree-vg/sree-vg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Economics Graduate | Aspiring Data Scientist**  
+📊 **Data Analysis • Machine Learning • Business Insights**
 
-Here are some ideas to get you started:
+I am an Economics graduate with hands-on experience in **Data Science, Machine Learning, and Analytics**, passionate about solving **real-world business and policy problems using data**.  
+My work combines **economic thinking** with **data-driven decision-making**, supported by end-to-end projects in analytics, ML, and deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I Work On
+- Data Cleaning, Exploratory Data Analysis (EDA)
+- Machine Learning & Predictive Modeling
+- Clickstream & Customer Analytics
+- Financial & Time-Series Data Analysis
+- Web Scraping & Automation
+- Data Visualization & Dashboards
+
+---
+
+## 🚀 Featured Projects
+
+### 🚌 Redbus Data Scraping & Analytics
+Automated data collection from Redbus using Selenium and built an interactive Streamlit app for route, price, and rating analysis.  
+**Tech:** Python, Selenium, MySQL, Pandas, Streamlit
+
+### 📈 FAANG Stock Price Prediction
+End-to-end stock price prediction system using regression models with a Streamlit interface for financial insights.  
+**Tech:** Python, Scikit-learn, Pandas, Streamlit
+
+### 🛒 Clickstream Customer Conversion Analysis
+Analyzed user clickstream data to predict customer conversion using classification models and business-driven evaluation metrics.  
+**Tech:** Python, ML, EDA, Business Analytics
+
+### 🏙️ Chicago Crime Data Analysis
+Exploratory analysis of Chicago crime data to identify crime patterns, trends, and temporal insights relevant to public policy.  
+**Tech:** Python, Pandas, Data Visualization
+
+### 🧠 Mental Health Data Analysis
+Analyzed mental health datasets to uncover trends and build predictive insights with ethical considerations.  
+**Tech:** Python, Data Analysis, ML
+
+### 🏦 Bank Term Deposit Subscription Prediction
+Built a machine learning system to predict whether a bank customer will subscribe to a term deposit **before a marketing call is made**, helping optimize campaign efficiency and reduce operational costs.
+
+- Performed data cleaning, feature engineering, and class imbalance handling
+- Trained and compared Logistic Regression, Random Forest, and Gradient Boosting models
+- Applied probability thresholds and business rules to support decision-making
+- Focused on model interpretability and real-world business impact
+
+**Tech:** Python, Pandas, Scikit-learn, Machine Learning, EDA
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**Tools:** Streamlit, Selenium, MySQL, Power BI  
+**Concepts:** Machine Learning, EDA, Statistics, Business Analytics
+
+---
+## 🎯 Career Focus
+To grow as a **Data Analyst / Data Scientist**, using data analytics, machine learning, and economic reasoning to support data-driven business and policy decisions.
+---
+
+## 📫 Let’s Connect
+- GitHub: https://github.com/sree-vg  
+- LinkedIn: https://www.linkedin.com/in/sree-v-g/  
+
+⭐ Feel free to explore my repositories and projects!
