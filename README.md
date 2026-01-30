@@ -40,14 +40,12 @@ Exploratory analysis of Chicago crime data to identify crime patterns, trends, a
 Analyzed mental health datasets to uncover trends and build predictive insights with ethical considerations.  
 **Tech:** Python, Data Analysis, ML
 
+### 🤖 Transformer-Based NLP Model
+Developed an NLP project using a **transformer-based architecture** to process and analyze text data, exploring modern deep learning techniques used in large language models.
+**Tech:** Python, NLP, Transformers, Deep Learning
+
 ### 🏦 Bank Term Deposit Subscription Prediction
 Built a machine learning system to predict whether a bank customer will subscribe to a term deposit **before a marketing call is made**, helping optimize campaign efficiency and reduce operational costs.
-
-- Performed data cleaning, feature engineering, and class imbalance handling
-- Trained and compared Logistic Regression, Random Forest, and Gradient Boosting models
-- Applied probability thresholds and business rules to support decision-making
-- Focused on model interpretability and real-world business impact
-
 **Tech:** Python, Pandas, Scikit-learn, Machine Learning, EDA
 
 ---
